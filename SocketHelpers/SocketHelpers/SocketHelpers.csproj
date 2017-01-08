@@ -36,7 +36,6 @@
     <DocumentationFile>bin\Release\SocketHelpers.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BetterTcpSocketClient.cs" />
     <Compile Include="Discovery\ByteArrayServiceDiscoverer.cs" />
     <Compile Include="Discovery\IDiscoveryPayload.cs" />
     <Compile Include="Extensions\AsyncExtensions.cs" />
